@@ -1,0 +1,12 @@
+{
+  "name": "Ashira-MD",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp bot using Baileys",
+  "main": "bot.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
